@@ -7,7 +7,7 @@
  
 
 
-### I am a MERN Stack Developer, Blockchain Developer, Machine Learning enthusiast, and CSE Student at VIT Bhopal🚀!!
+### I am a MERN Stack Developer, Blockchain Developer and CSE Student at VIT Bhopal University 🚀!!
 
 
 
