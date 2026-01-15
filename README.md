@@ -6,8 +6,8 @@
 
  
 
-## Founder : catcatchcode.online
-### I am a MERN Stack Developer, Blockchain Developer and CSE Student at VIT Bhopal University 🚀!!
+## Co-Founder : catcatchcode.online
+### I am a MERN Stack Developer and CSE Student at VIT Bhopal University 🚀!!
 
 
 
