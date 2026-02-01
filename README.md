@@ -66,7 +66,13 @@
 <a href="https://www.geeksforgeeks.org/user/abhijayshah74/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" img height="21" alt="GeeksforGeeks" style="margin-bottom: 2px;" /></a> 
 
 <a href="https://www.youtube.com/@abhijayshah74" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" img height="21" alt="YouTube" style="margin-bottom: 2px;" /></a>
-   
+
+<br><br>
+
+<a href="https://github.com/Abhijayshah/Abhijayshah">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbhijayshah%2FAbhijayshah&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Check-ins&edge_flat=false" alt="Visitor Count" />
+</a>
+
 </div>
 
 
