@@ -1,5 +1,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhijayshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Abhijayshah" />
+  
+  <br>
+  
+  [![Abhijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijayshah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
    <h1>Hi, I am Abhijay Shah </h1>
    <p align="center">
   <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
@@ -37,6 +42,12 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhijayshah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🌟 Recent Stargazers & Followers
+
+<a href="https://github.com/Abhijayshah?tab=followers">
+  <img src="https://img.shields.io/badge/dynamic/json?color=333&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbhijayshah&logo=github&style=for-the-badge" alt="GitHub Followers" />
+</a>
 
 ##   <i>Follow me:</i><br>
    
