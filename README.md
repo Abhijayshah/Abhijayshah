@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijayshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Abhijayshah" />
    <h1>Hi, I am Abhijay Shah </h1>
    <p align="center">
   <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
@@ -10,9 +9,9 @@
 ## Founder : CatCatchCode
 ## Overview: 
 ### Bootstrapping an EdTech initiative focused on structured technical skilling for college students.
-Engineering Leadership: Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 5-member development team.
-Product Delivery: Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules.
-User Impact: Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube.
+- Engineering Leadership: Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 5-member development team.
+- Product Delivery: Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules.
+- User Impact: Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube.
 
 ### Full Stack Engineer (MERN, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
 
