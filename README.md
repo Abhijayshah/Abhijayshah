@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhijayshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Abhijayshah" />
    <h1>Hi, I am Abhijay Shah </h1>
    <p align="center">
   <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
