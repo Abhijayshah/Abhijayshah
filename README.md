@@ -6,14 +6,15 @@
 
  
 
-## Founder : CatCatchCode
-## Overview: 
-### Bootstrapping an EdTech initiative focused on structured technical skilling for college students.
-- Engineering Leadership: Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 5-member development team.
-- Product Delivery: Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules.
-- User Impact: Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube.
+## 🚀 Founder : CatCatchCode
 
-### Full Stack Engineer (MERN, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
+> **Bootstrapping an EdTech initiative focused on structured technical skilling for college students.**
+
+| 🛠️ Engineering Leadership | 📦 Product Delivery | 👥 User Impact |
+| :--- | :--- | :--- |
+| Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 5-member development team. | Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules. | Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube. |
+
+### 👨‍💻 Full Stack Engineer (MERN, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
 
 
 
