@@ -17,9 +17,9 @@
 
 | 🛠️ Engineering Leadership | 📦 Product Delivery | 👥 User Impact |
 | :--- | :--- | :--- |
-| Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 5-member development team. | Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules. | Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube. |
+| Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 2-member development team. | Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules. | Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube. |
 
-### 👨‍💻 Full Stack Engineer (MERN, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
+### 👨‍💻 Full Stack Engineer (MERN,Python, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
 
 
 
