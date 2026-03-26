@@ -1,83 +1,105 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Abhijay&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20B.Tech%20CSE%20@%20VIT%20’26&descSize=20&descAlignY=55" />
+  
+  <br/>
+
+  <a href="https://www.linkedin.com/in/abhijay-shah-75a5a7251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhijayshah74@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@abhijayshah74"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/abhijayshah74/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://x.com/abhijayshah74"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+  <br/>
+
   <img src="https://komarev.com/ghpvc/?username=Abhijayshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Abhijayshah" />
-  
-  <br>
-  
-  [![Abhijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijayshah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-   <h1>Hi, I am Abhijay Shah </h1>
-   <p align="center">
-  <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
-</p>
-
- 
-
-## Co-Founder & Technical Lead : CatCatchCode
-
-
-> **Bootstrapping an EdTech initiative focused on structured technical skilling for college students.**
-
-| 🛠️ Engineering Leadership | 📦 Product Delivery | 👥 User Impact |
-| :--- | :--- | :--- |
-| Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 5-member development team. | Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules. | Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube. |
-
-### 👨‍💻 Full Stack Engineer (MERN, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
-
-
-
-
-
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhijayshah&theme=midnight-purple)](https://git.io/streak-stats)
-   
-   
-##   GitHub Stats📊
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijayshah&theme=radical)
-   
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijayshah&theme=moonlight)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijayshah&theme=moonlight)
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhijayshah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🌟 Recent Stargazers & Followers
-
-<a href="https://github.com/Abhijayshah?tab=followers">
-  <img src="https://img.shields.io/badge/dynamic/json?color=333&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbhijayshah&logo=github&style=for-the-badge" alt="GitHub Followers" />
-</a>
-
-##   <i>Follow me:</i><br>
-   
-   
-
-<a href="https://www.linkedin.com/in/abhijay-shah-75a5a7251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/abhijayshah74/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://x.com/abhijayshah74" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="mailto:abhijayshah74@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-
-   
-   
-<a href="https://www.hackerrank.com/dashboard" target="_blank"><img src=	"https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" img height="21" alt="Hackerrank"></a>
-<a href="https://leetcode.com/u/abhijayshah74/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img height="21" alt="Leetcode"></a>
-
-<a href="https://www.geeksforgeeks.org/user/abhijayshah74/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" img height="21" alt="GeeksforGeeks" style="margin-bottom: 2px;" /></a> 
-
-<a href="https://www.youtube.com/@abhijayshah74" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" img height="21" alt="YouTube" style="margin-bottom: 2px;" /></a>
-
-<br><br>
-
-<a href="https://github.com/Abhijayshah/Abhijayshah">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhijayshah.Abhijayshah" alt="Visitor Count" />
-</a>
 
 </div>
 
+<br/>
 
- [![An image of @Abhijayshah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Abhijayshah)](https://holopin.io/@Abhijayshah)
-  
-  
-   ##
+## 👤 About Me
+I'm **Abhijay Shah**, a **Full Stack Engineer** and **Co-Founder & Technical Lead** at **CatCatchCode**. I am passionate about building scalable web applications and technical skilling for students.
+
+- 🛠️ **Co-Founder & Technical Lead** : CatCatchCode - Bootstrapping an EdTech initiative.
+- 🎓 **B.Tech CSE @ VIT ’26**
+- 🚀 **Building Scalable Tech** using MERN stack and C++.
+- 📦 **100+ Technical Modules** shipped to 100+ active users.
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
+
+### 🌐 Frameworks & Libraries
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
+### 🔧 Developer Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
+
+<br/>
+
+## 📈 LeetCode Profile
+<div align="center">
+  <a href="https://leetcode.com/u/abhijayshah74/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=abhijayshah74&theme=dark" alt="LeetCode Stats" />
+  </a>
+  <br/>
+  <a href="https://leetcode.com/u/abhijayshah74/">🔗 View my LeetCode Profile</a>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijayshah&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijayshah&theme=midnight-purple" alt="Streak Stats" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+<div align="center">
+  <img src="https://github.com/Abhijayshah/Abhijayshah/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+## 💡 Thought of the Day
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the day" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/Abhijayshah/Abhijayshah">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhijayshah.Abhijayshah" alt="Visitor Count" />
+  </a>
+</div>
