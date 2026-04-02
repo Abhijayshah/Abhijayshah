@@ -11,7 +11,7 @@
 
  
 
-## Founder & Technical Lead : CatCatchCode
+## Co-Founder & Technical Lead : CatCatchCode
 
 > **Bootstrapping an EdTech initiative focused on structured technical skilling for college students.**
 
