@@ -4,22 +4,65 @@
   <img src="https://komarev.com/ghpvc/?username=Abhijayshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Abhijayshah" />
 
    <h1>Hi, I'm Abhijay Kumar Shah 👋</h1>
-   <h3>Full Stack & GenAI Developer | Tech Mentor @ CatCatchCode | VIT '26</h3>
+   <h3>Building things that work | Writing things that make sense | Guiding people who want to grow</h3>
    <p align="center">
   <img width="300" src="https://media4.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif?cid=ecf05e47a387tsd8zxy1hw368egf3m418r0r09bu0itqy0ba&rid=giphy.gif&ct=g">
 </p>
 
  
 
-## Co-Founder & Technical Lead : CatCatchCode
+## 📍 B.Tech CSE @ VIT (2026) | 📍 Co-Founder @ CatCatchCode | 📍 Mentor to 100+ Students
 
-> **Bootstrapping an EdTech initiative focused on structured technical skilling for college students.**
+<!-- > **Bootstrapping an EdTech initiative focused on structured technical skilling for college students.**
 
 | 🛠️ Engineering Leadership | 📦 Product Delivery | 👥 User Impact |
 | :--- | :--- | :--- |
-| Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 2-member development team. | Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules. | Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube. |
+| Architecting the full-stack infrastructure (MERN) and establishing Agile workflows (Git, Code Reviews) to lead a 2-member development team. | Managing the end-to-end SDLC from feature roadmap to production deployment, successfully shipping 100+ technical modules. | Scaled the platform to 100+ active student users, driving organic growth through community building on LinkedIn and YouTube. | -->
 
-### 👨‍💻 Full Stack Engineer (MERN,Python, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
+##  📍 The 4 Hats I Wear
+
+| Hat | What I Do | Proof |
+|:---|:---|:---|
+| **🛠️ Full-Stack Developer** | Build production-grade MERN/TypeScript apps with clean code | 5+ deployed projects |
+| **🧪 QA & Tester** | Find bugs before users do. Write test cases. Validate APIs. | 6 critical bugs found in ProjectHub |
+| **📝 Technical Communicator** | Break down complex topics into simple stories | 100+ YouTube tutorials |
+| **🎯 Mentor & Guide** | One-on-one guidance for career, skills, and confidence | 100+ students mentored |
+
+
+---
+
+## 🔨 What I'm Currently Building
+
+### CatCatchCode (Co-Founder & Technical Lead)
+*EdTech platform focused on structured technical skilling*
+
+| Role | Responsibility |
+|:---|:---|
+| **Engineering** | Architecting full-stack MERN infrastructure, establishing Git workflows, code reviews |
+| **Product Delivery** | Managing end-to-end SDLC from roadmap to deployment, shipped 100+ modules |
+| **QA & Testing** | Manual testing, API validation (Postman), bug tracking, regression testing |
+| **User Growth** | Scaled to 100+ active users through community building (LinkedIn, YouTube) |
+| **Mentorship** | One-on-one guidance for students navigating career decisions |
+
+
+---
+
+## 🛠️ Tech Toolbox
+
+| Category | Skills |
+|:---|:---|
+| **Languages** | JavaScript, TypeScript, Python, C++, SQL |
+| **Frontend** | React.js, Tailwind CSS, Context API |
+| **Backend** | Node.js, Express.js, FastAPI |
+| **Databases** | MongoDB, PostgreSQL, SQLite |
+| **Testing** | Postman, Jest, Manual Test Cases, Bug Tracking |
+| **DevOps** | Git, Docker, Vercel, Render |
+| **Other** | Excel (Advanced), Technical Writing, Content Creation |
+
+---
+
+
+#### 👨‍💻 Full Stack Engineer (MERN,Python, C++) | Building Scalable Tech @CatCatchCode | B.Tech CSE @ VIT ’26 | Open to SDE Internships 🚀!!
 
 
 
